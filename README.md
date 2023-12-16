@@ -23,7 +23,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Installed / Enabled IIS in Windows with CGI, common HTTP features, and IIS management console.
  Downloaded / installed PHP Manager and PHP 7.3.8
 - Installed Microsoft Visual C++ Redistributable
-- Installed and configured a MySQL 5.5.62 server isntance. 
+- Installed and configured a MySQL 5.5.62 server isntance.
+- Registered PHP from within IIS 
 
 <h2>Installation Steps</h2>
 
