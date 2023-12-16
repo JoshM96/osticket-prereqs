@@ -19,7 +19,7 @@ In this lab I installed the open-source help desk ticketing system osTicket.<br 
 
 <h2>List of Prerequisites</h2>
 
-- Created a Windows 10 Virtual Machine with 2-4 Virtual CPUs.
+- Created a Windows 10 Virtual Machine in Microsoft Azure
 - Installed / Enabled IIS in Windows with CGI, common HTTP features, and IIS management console.
  Downloaded / installed PHP Manager and PHP 7.3.8
 - Installed Microsoft Visual C++ Redistributable
